@@ -1,2 +1,2 @@
-# Estudos-C-
+# Estudos .NET
 Estudos gerais em .NET
